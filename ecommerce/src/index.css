@@ -1,0 +1,83 @@
+.contButton {
+    width: 50px;  
+    border-radius: 5px;
+    border:none;
+    background-color:#6950A1;
+    color: white;
+     
+  }
+.contBtn {
+    width: 50px;  
+    border-radius: 5px;
+    border:none;
+    background-color:#6950A1;
+    color: white;
+}
+.addCart{
+    width: 130px;
+    margin-left: 25%;
+    background: #6950A1;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    margin-top: 5px;
+    cursor: pointer;
+    font-size: 12px;
+}
+
+.rotaCarrinho {
+  width: 20%;
+  height: 30px;
+  margin-left: 80%;
+  background: #6950A1;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  margin-top: 5px;
+  cursor: pointer;
+  font-size: 10px;
+}
+
+.imgCart {
+  width: 15%;
+  height: 5%;
+  padding-top: 5px;
+}
+.infoCart {
+  display: flex;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.infoCompras {
+  display: flex;
+  flex-direction: column;
+  margin-left: 15px;
+}
+.btnqtd {
+  display: flex;
+  gap: 15px;
+}
+.btnadd {
+  width: 30px;
+  border-radius: 5px;
+  background: #6950A1;
+  color: white;
+  font-size: 20px;
+}
+.btnFinalizar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.btnfin{
+  border-radius: 5px;
+  background: #6950A1;
+  color: white;
+  font-size: 15px;
+  border: none;
+  padding: 5px;
+}
+.teste {
+  display: flex;
+  
+}
